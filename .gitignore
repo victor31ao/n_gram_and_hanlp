@@ -1,0 +1,4 @@
+/.venv
+/.vscode
+/gpt_test.py
+/hanlp_test.py
